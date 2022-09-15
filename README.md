@@ -60,12 +60,14 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   #### Screenreader
   Hier korte omschrijving (met indien nodig afbeeldingen)
+  De screenreader ging goed. Sena Nur heeft de headings, knoppen, links etc. uitgeprobeerd. Bij 'words' moest ze eerst klikken op een woord, hetzelfde was ook bij 'frame. Bij navigation bestuurde ze het met pijlen.
 
   Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
 
 
   #### Muis en Toetsenbord 
   Hier korte omschrijving (met indien nodig afbeeldingen)
+  Met tab ging de focus van het logo naar vacatures (van helemaal links naar rechts boven). Daarna ging het naar 'steun ons' wat naast 'vacatures' staat. Daarna begint het niet bij de eerste optie van het menu, maar bij het vijfde kopje 'Nederland'. Het gaat dus niet helemaal in volgorde.
 
   Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
 
@@ -78,6 +80,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   #### Visueel (brillen, contrast, kleurenblind, dark/light). 
   Hier korte omschrijving (met indien nodig afbeeldingen)
+  Er is geen dark-mode. Sena Nur heeft de verschillende contrasten geprobeerd: blurred vision, protanopia, peuteranopia, tritanopia, achromatopia etc. hiermee was alles goed te zien.
+  
+  Met de gele bril was alles leesbaar, alleen was het oranje iets lichter. 
+  De bril met de vlekken was leesbaar wanneer Sena Nur met haar hoofd bewoog. De kleuren en kleine teksten waren duidelijk. Het kost alleen meer tijd.
+  De wazige bril
 
   Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
 
