@@ -74,6 +74,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   #### Motoriek (shocks, elastiekjes)
   Hier korte omschrijving (met indien nodig afbeeldingen)
+  Met de shocks was de website goed, omdat de meeste knoppen groot zijn. Maar zelfs het menu, die kleinere knoppen heeft, ging het ook goed. Met het elastiekje was het lastig om te scrollen, door het met beide handen te doen of met de middel- en ringvinger  
 
   Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
 
@@ -84,7 +85,9 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   
   Met de gele bril was alles leesbaar, alleen was het oranje iets lichter. 
   De bril met de vlekken was leesbaar wanneer Sena Nur met haar hoofd bewoog. De kleuren en kleine teksten waren duidelijk. Het kost alleen meer tijd.
-  De wazige bril
+  De wazige bril maakte het moeilijk om te lezen, ook was het lastig de muis te vinden. Maar als je goed op let is het wel te lezen.
+  Met de vierkantjes kon Sena Nur de kleine teksten bijna niet lezen, maar ze wist wel dat er tekst was op die plek.
+  De half zwarte bril was goed.
 
   Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
 
