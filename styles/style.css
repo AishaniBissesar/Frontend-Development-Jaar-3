@@ -19,9 +19,22 @@ button, summary {
 :root {
 	/* startje */
 	--color-text:#111;
-	--color-background:#eee;
+	--color-background:rgb(255, 255, 255);
 }
 
+/************/
+/* HET LOGO */
+/************/
+.img-mijnhindoeismelogo {
+	width: 150px;
+}
+
+/*************/
+/* HET MENU */
+/*************/
+nav {
+	order:-1;
+}
 
 
 

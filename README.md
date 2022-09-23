@@ -60,34 +60,24 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   #### Screenreader
   Hier korte omschrijving (met indien nodig afbeeldingen)
-  De screenreader ging goed. Sena Nur heeft de headings, knoppen, links etc. uitgeprobeerd. Bij 'words' moest ze eerst klikken op een woord, hetzelfde was ook bij 'frame. Bij navigation bestuurde ze het met pijlen.
 
   Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
 
 
   #### Muis en Toetsenbord 
   Hier korte omschrijving (met indien nodig afbeeldingen)
-  Met tab ging de focus van het logo naar vacatures (van helemaal links naar rechts boven). Daarna ging het naar 'steun ons' wat naast 'vacatures' staat. Daarna begint het niet bij de eerste optie van het menu, maar bij het vijfde kopje 'Nederland'. Het gaat dus niet helemaal in volgorde.
 
   Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
 
 
   #### Motoriek (shocks, elastiekjes)
   Hier korte omschrijving (met indien nodig afbeeldingen)
-  Met de shocks was de website goed, omdat de meeste knoppen groot zijn. Maar zelfs het menu, die kleinere knoppen heeft, ging het ook goed. Met het elastiekje was het lastig om te scrollen, door het met beide handen te doen of met de middel- en ringvinger  
 
   Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
 
 
   #### Visueel (brillen, contrast, kleurenblind, dark/light). 
   Hier korte omschrijving (met indien nodig afbeeldingen)
-  Er is geen dark-mode. Sena Nur heeft de verschillende contrasten geprobeerd: blurred vision, protanopia, peuteranopia, tritanopia, achromatopia etc. hiermee was alles goed te zien.
-  
-  Met de gele bril was alles leesbaar, alleen was het oranje iets lichter. 
-  De bril met de vlekken was leesbaar wanneer Sena Nur met haar hoofd bewoog. De kleuren en kleine teksten waren duidelijk. Het kost alleen meer tijd.
-  De wazige bril maakte het moeilijk om te lezen, ook was het lastig de muis te vinden. Maar als je goed op let is het wel te lezen.
-  Met de vierkantjes kon Sena Nur de kleine teksten bijna niet lezen, maar ze wist wel dat er tekst was op die plek.
-  De half zwarte bril was goed.
 
   Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
 
@@ -132,7 +122,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
   | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
   | ...            | ...                | ...          | ...              |
-Vragen of mijn html goed is.
+
 
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
