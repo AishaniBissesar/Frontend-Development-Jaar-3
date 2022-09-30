@@ -32,9 +32,7 @@ header h1 img {
 /*************/
 /* HET MENU */
 /*************/
-nav {
-	order:1;
-}
+
 
 /****************/
 /* JOUW STYLING */
@@ -117,11 +115,30 @@ header nav ul li a {
 	li {
 		flex-grow: 1;
 	}
+
+	main section:first-of-type ul {
+		flex-direction: column;
+	}
 }
 
 /********/
 /* MAIN */
 /********/
+
+/********************************/
+/* HINDYOU HINDOEISME NEDERLAND */
+/********************************/
+main section ul li {
+	background-color: rgb(255, 140, 0);
+	color: black;
+	border: 2px solid rgb(255, 140, 0);
+	padding: 10px 20px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+}
+
+
 
 main img {
 	/* margin: 0;
@@ -132,8 +149,29 @@ main img {
 	height: auto;
 }
 
-main ul {
+main section:first-of-type ul {
+	display: flex;
+	justify-content: space-between;
+	gap:.5em;
+	padding: 0;
+	width: fit-content;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+main section:first-of-type ul li {
+	flex-grow: 1;
+	background-color: rgb(255, 140, 0);
+	padding: .5em;
+	text-align: center;
+	display: inline-block;
+	width: fit-content;
 	
+}
+
+main section:first-of-type ul li a{
+	color: #111;
+	text-decoration: none;
 }
 
 
