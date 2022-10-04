@@ -129,6 +129,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Stand van zaken
   hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+  De HTML was bij mij gelukt. Ik wist niet zo goed waar ik moest beginnen met css. Dit zijn een paar screenshots van de html.
   <img src="readme-images/voortgang1.week2.screenshot.part1.png" width="375px" alt="voortgang 1 week 2 screenshot part 1">
   <img src="readme-images/voortgang1.week2.screenshot.part2.png" width="375px" alt="voortgang 1 week 2 screenshot part 2">
   <img src="readme-images/voortgang1.week2.screenshot.part3.png" width="375px" alt="voortgang 1 week 2 screenshot part 3">
@@ -139,10 +140,10 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | student 1      | student 2          | student 3    | student 4        |
+  | Aishani Bissesar      | Laura Peer          | Mila Bigini    | student 4        |
   | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
+  | html checken  | het selecteren van een element             | laten checken    | en dan ik dat    |
+  | hoe kan ik met css beginnen | dit als er tijd is | nog een punt | dit wil ik zeker |
   | ...            | ...                | ...          | ...              |
 
 
