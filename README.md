@@ -60,24 +60,40 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   #### Screenreader
   Hier korte omschrijving (met indien nodig afbeeldingen)
+  De screenreader ging goed. Sena Nur heeft de headings, knoppen, links etc. uitgeprobeerd. Bij 'words' moest ze eerst klikken op een woord, hetzelfde was ook bij'frame'. Bij navigation bestuurde ze het met pijlen.
 
   Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
 
 
   #### Muis en Toetsenbord 
   Hier korte omschrijving (met indien nodig afbeeldingen)
-
+  Met tab ging de focus van het logo naar 'vacatures' (van helemaal links- naar rechtsboven). Daarna ging het naar 'steun ons' wat naast 'vacatures' staat. Daarna begint het niet bij de eerste optie van het menu, maar bij het zesde kopje 'over ons'. Vervolgens pas vanaf 'home'. Het gaat dus niet helemaal in volgorde. De afbeeldingen kon met pijlen veranderd worden. Daarna ging het van de agenda weer verder naar beneden doormiddel van het tabben.
+  
   Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
 
 
   #### Motoriek (shocks, elastiekjes)
   Hier korte omschrijving (met indien nodig afbeeldingen)
+  Omdat de knoppen groot zijn, kon Sena Nur ze goed aanklikken. Zelfs het menu die iets kleiner is.
+  
+  Ondanks de elastieken om haar vingers, kon ze de website goed gebruiken. Soms gebruikte ze beide handen, om bijvoorbeeld te scrollen, of met haar middelvinger.
+  
+  De ballon leidde wel af, Sena Nur moest dan wel even zoeken waar ze was.
 
   Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
 
 
   #### Visueel (brillen, contrast, kleurenblind, dark/light). 
   Hier korte omschrijving (met indien nodig afbeeldingen)
+  Er is geen dark-mode. Sena Nur heeft de verschillende contrasten geprobeerd: blurred vision, protanopia, peuteranopia, tritanopia, achromatopia etc. hiermee was alles goed te zien.
+  
+  Met de gele bril was alles leesbaar, alleen was het oranje iets lichter.
+  De bril met de vlekken was leesbaar wanneer Sena Nur met haar hoofd bewoog. De kleuren en kleine teksten waren duidelijk. Het kost alleen iets meer tijd.
+  De wazige bril was lastig om mee te lezen en om de muis te vinden. Als je goed gefocust blijft, is het wel te lezen.
+  Met de bril met vierkantjes kon Sena Nur het niet lezen. Ze wist wel dat er een tekst staat, maar dat is het.
+  Met de half zwarte bril kon ze het wel goed lezen.
+  Met de kleine tunnel bril waren kleine teksten moeilijk te lezen. Als je met je hoofd beweegt werd het wel leesbaar.
+  De bril waar er midden in een vlek zit, vond Sena Nur makkelijk om ermee te lezen.
 
   Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
 
