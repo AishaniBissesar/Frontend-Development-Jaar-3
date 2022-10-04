@@ -149,9 +149,8 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
-
-  - punt 1
-  - punt 2
+  - punt 1: Custom Properties, kleuren (zwart, oranje..), font, kleurpalet, css reset, van boven naar beneden, eerst html goed hebben.
+  - punt 2: Secties verdelen, ul, li, h2, p, link, image verbeteren.
   - nog een punt
   - ...
 
