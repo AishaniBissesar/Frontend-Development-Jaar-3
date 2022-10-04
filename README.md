@@ -105,10 +105,10 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken na afloop 2e werkgroep</summary>
 
   ### de hele pagina: 
-  <img src="readme-images/breakdownschets.screenshot.part1.png" width="375px" alt="breakdown van de hele pagina">
-  <img src="readme-images/breakdownschets.screenshot.part2.png" width="375px" alt="breakdown van de hele pagina">
-  <img src="readme-images/breakdownschets.screenshot.part3.png" width="375px" alt="breakdown van de hele pagina">
-  <img src="readme-images/breakdownschets.screenshot.part4.png" width="375px" alt="breakdown van de hele pagina">
+  <img src="readme-images/breakdownschets.screenshot.part1.png" width="375px" alt="breakdown van de hele pagina part 1">
+  <img src="readme-images/breakdownschets.screenshot.part2.png" width="375px" alt="breakdown van de hele pagina part 2">
+  <img src="readme-images/breakdownschets.screenshot.part3.png" width="375px" alt="breakdown van de hele pagina part 3">
+  <img src="readme-images/breakdownschets.screenshot.part4.png" width="375px" alt="breakdown van de hele pagina part 4">
 
   ### dynamisch deel (bijv menu): 
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
@@ -129,7 +129,12 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Stand van zaken
   hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
-
+  <img src="readme-images/voortgang1.week2.screenshot.part1.png" width="375px" alt="voortgang 1 week 2 screenshot part 1">
+  <img src="readme-images/voortgang1.week2.screenshot.part2.png" width="375px" alt="voortgang 1 week 2 screenshot part 2">
+  <img src="readme-images/voortgang1.week2.screenshot.part3.png" width="375px" alt="voortgang 1 week 2 screenshot part 3">
+  <img src="readme-images/voortgang1.week2.screenshot.part4.png" width="375px" alt="voortgang 1 week 2 screenshot part 4">
+  <img src="readme-images/voortgang1.week2.screenshot.part5.png" width="375px" alt="voortgang 1 week 2 screenshot part 5">
+  <img src="readme-images/voortgang1.week2.screenshot.part6.png" width="375px" alt="voortgang 1 week 2 screenshot part 6">
 
   ### Agenda voor meeting
   samen met je groepje opstellen
