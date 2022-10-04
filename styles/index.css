@@ -1,0 +1,92 @@
+@import url(style_algemeen.css);
+
+/********************************/
+/* HINDYOU HINDOEISME NEDERLAND */
+/********************************/
+main section ul li {
+	background-color: rgb(255, 140, 0);
+	color: black;
+	border: 2px solid rgb(255, 140, 0);
+	padding: 10px 20px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+}
+
+main section:nth-of-type(3) {
+	display: none;
+}
+
+/***************/
+/* ONZE MISSIE */
+/***************/
+main section ul li {
+	background-color: rgb(255, 255, 255);
+	color: black;
+	border: 2px solid rgb(255, 140, 0);
+	padding: 10px 20px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+}
+
+main img {
+	/* margin: 0;
+	padding:0;
+	display: flex;
+	align-items:center; */
+	max-width: 100%; 
+	height: auto;
+}
+
+main section:first-of-type ul {
+	display: flex;
+	justify-content: space-between;
+	gap:.5em;
+	padding: 0;
+	width: fit-content;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+main section:first-of-type ul li {
+	flex-grow: 1;
+	background-color: rgb(255, 140, 0);
+	padding: .5em;
+	text-align: center;
+	display: inline-block;
+	width: fit-content;
+}
+
+main section:first-of-type ul li a{
+	color: #111;
+	text-decoration: none;
+}
+
+
+
+/***********************/
+/* Section Onze missie */
+/***********************/
+section:nth-of-type(4) {
+	background: rgb(255, 140, 0);
+}
+section:nth-of-type(6) {
+	background: rgb(255, 140, 0);
+}
+
+
+@media (min-width:40em) {
+
+	main section:first-of-type ul {
+		flex-direction: column;
+	}
+
+	main section:first-of-type {
+		display: none;
+	}
+
+	main section:nth-of-type(3){
+		display: block;
+	}
+}

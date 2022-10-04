@@ -1,0 +1,119 @@
+/**************/
+/* CSS REMEDY */
+/**************/
+*, *::after, *::before {
+    box-sizing:border-box;  
+  }
+  
+  /* button, summary {
+      cursor: pointer;
+  } */
+  
+  /*********************/
+  /* CUSTOM PROPERTIES */
+  /*********************/
+  :root {
+      /* startje */
+      /* HET KLEURENPALET*/
+      --color-text:#111;
+      --color-background:rgb(255, 255, 255);
+  }
+  
+  /************/
+  /* HET LOGO */
+  /************/
+  header h1 { margin: 0;
+  padding:0;}
+  
+  header h1 img {
+      width: 150px;
+  }
+  
+  /*************/
+  /* HET MENU */
+  /*************/
+  
+  
+  /****************/
+  /* JOUW STYLING */
+  /****************/
+  
+  /* jouw code */
+  
+  body {
+    color:var(--color-text);
+    background-color:var(--color-background);
+    margin: 0;
+  }
+  
+  header {
+      display: flex;
+      justify-content:space-around;
+      height: 30%;
+      align-items:center;
+  }
+  
+  header > button {
+      z-index: 100;
+      background:none; 
+      border:solid .1em orange ;
+      height: 3em;
+  }
+  
+  header nav {
+      position: fixed;
+      top: 0;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      background-color: rgb(255, 140, 0);
+  
+      transform:translateX(-100%);
+  
+      transition-duration:.3s;
+  }
+  
+  header nav.open {
+      transform:translateX(0%);
+  }
+  
+  header nav ul {
+      margin: 0;
+      padding: 0;
+      list-style: none;
+  }
+  
+  header nav ul li {
+      border:solid .1em black ;
+  
+      height: 4em;
+  }
+  
+  header nav ul li a {
+      text-decoration: underline;
+  }
+  
+
+@media (min-width:40em) {
+	header{
+		display:block;
+	}
+
+	header button {
+		display: none;
+	}
+
+	nav {
+		position:sticky;
+		background-color: pink;
+	}
+
+	ul {
+		display:flex;
+		gap:1em;
+	}
+
+	li {
+		flex-grow: 1;
+	}
+}

@@ -1,0 +1,25 @@
+@import url(style_algemeen.css);
+
+/***************/
+/*ACTUEEL KOPJE*/
+/***************/
+
+section:nth-of-type(1) {
+	background: rgb(255, 140, 0);
+    padding: .5em;
+    text-align: center;
+}
+
+/***************************/
+/*ACTUEEL AGENDA FEESTDAGEN*/
+/***************************/
+
+main section ul li {
+	background-color: rgb(255, 140, 0);
+	color: black;
+	border: 2px solid rgb(255, 140, 0);
+	padding: 10px 20px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+}
