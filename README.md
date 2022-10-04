@@ -140,10 +140,10 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | Aishani Bissesar      | Laura Peer          | Mila Bigini    | student 4        |
+  | Aishani Bissesar      | Laura Peer          | Mila Bigini    | (student 4)        |
   | ---            | ---                | ---          | ---              |
-  | html checken  | het selecteren van een element             | laten checken    | en dan ik dat    |
-  | hoe kan ik met css beginnen | dit als er tijd is | nog een punt | dit wil ik zeker |
+  | html checken  | het selecteren van een element             | laten checken    | (en dan ik dat)    |
+  | hoe kan ik met css beginnen | (dit als er tijd is) | (nog een punt) | (dit wil ik zeker) |
   | ...            | ...                | ...          | ...              |
 
 
