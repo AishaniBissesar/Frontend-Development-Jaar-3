@@ -107,6 +107,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### de hele pagina: 
   <img src="images/breakdownschets.screenshot.part1.png" width="375px" alt="breakdown van de hele pagina">
   <img src="images/breakdownschets.screenshot.part2.png" width="375px" alt="breakdown van de hele pagina">
+  <img src="images/breakdownschets.screenshot.part3.png" width="375px" alt="breakdown van de hele pagina">
 
   ### dynamisch deel (bijv menu): 
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
