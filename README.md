@@ -61,6 +61,9 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   #### Screenreader
   Hier korte omschrijving (met indien nodig afbeeldingen)
   De screenreader ging goed. Sena Nur heeft de headings, knoppen, links etc. uitgeprobeerd. Bij 'words' moest ze eerst klikken op een woord, hetzelfde was ook bij 'frame'. Bij navigation bestuurde ze het met pijlen.
+  <img src="readme-images/headings.png" width="375px" alt="omschrijving van de pagina">
+  <img src="readme-images/formcontrols.png" width="375px" alt="omschrijving van de pagina">
+  <img src="readme-images/landmarks.png" width="375px" alt="omschrijving van de pagina">
 
   Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
 
@@ -68,6 +71,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   #### Muis en Toetsenbord 
   Hier korte omschrijving (met indien nodig afbeeldingen)
   Met tab ging de focus van het logo naar 'vacatures' (van helemaal links- naar rechtsboven). Daarna ging het naar 'steun ons' wat naast 'vacatures' staat. Daarna begint het niet bij de eerste optie van het menu, maar bij het zesde kopje 'over ons'. Vervolgens pas vanaf 'home'. Het gaat dus niet helemaal in volgorde. De afbeeldingen kon met pijlen veranderd worden. Daarna ging het van de agenda weer verder naar beneden doormiddel van het tabben.
+  <img src="readme-images/tab.png" width="375px" alt="omschrijving van de pagina">
 
   Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
 
@@ -77,6 +81,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Omdat de knoppen groot zijn, kon Sena Nur ze goed aanklikken. Zelfs het menu waarbij de knoppen iets kleiner zijn.
 
   Ondanks de elastieken om haar vingers, kon ze de website goed gebruiken. Soms gebruikte ze beide handen, om bijvoorbeeld te scrollen, of met haar middelvinger.
+  <img src="readme-images/elastiek.png" width="375px" alt="omschrijving van de pagina">
 
   De ballon leidde wel af, Sena Nur moest dan wel even zoeken waar ze was.
 
@@ -86,6 +91,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   #### Visueel (brillen, contrast, kleurenblind, dark/light). 
   Hier korte omschrijving (met indien nodig afbeeldingen)
   Er is geen dark-mode. Sena Nur heeft de verschillende contrasten geprobeerd: blurred vision, protanopia, peuteranopia, tritanopia, achromatopia etc. hiermee was alles goed te zien.
+  <img src="readme-images/contrast.png" width="375px" alt="omschrijving van de pagina">
 
   Met de gele bril was alles leesbaar, alleen was het oranje iets lichter. De bril met de vlekken was leesbaar wanneer Sena Nur met haar hoofd bewoog. De kleuren en kleine teksten waren duidelijk. Het kost alleen iets meer tijd.
   De wazige bril was lastig om mee te lezen en om de muis te vinden. Als je goed gefocust blijft, is het wel te lezen. 
