@@ -1,35 +1,8 @@
 @import url(style_algemeen.css);
 
-/********************************/
-/* HINDYOU HINDOEISME NEDERLAND */
-/********************************/
-main section ul li {
-	background-color: rgb(255, 140, 0);
-	color: black;
-	border: 2px solid rgb(255, 140, 0);
-	padding: 10px 20px;
-	text-align: center;
-	text-decoration: none;
-	display: inline-block;
-}
 
-main section:nth-of-type(3) {
-	display: none;
-}
 
-/***************/
-/* ONZE MISSIE */
-/***************/
-main section ul li {
-	background-color: rgb(255, 255, 255);
-	color: black;
-	border: 2px solid rgb(255, 140, 0);
-	padding: 10px 20px;
-	text-align: center;
-	text-decoration: none;
-	display: inline-block;
-}
-
+/* alle foto's */
 main img {
 	/* margin: 0;
 	padding:0;
@@ -39,6 +12,10 @@ main img {
 	height: auto;
 }
 
+
+
+/* section 1 */
+/* de drie links  */
 main section:first-of-type ul {
 	display: flex;
 	justify-content: space-between;
@@ -65,28 +42,83 @@ main section:first-of-type ul li a{
 
 
 
+
+
+
+/* sectie 2 */
+/* carousel */
+
+main section:nth-of-type(2) {
+    
+}
+
+main section:nth-of-type(2) ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    display: flex;
+    overflow: scroll;
+}
+
+main section:nth-of-type(2) li {
+    width: 100%;
+    flex-shrink: 0;
+}
+
+
+
+
+/***************/
+/* ONZE MISSIE */
+/***************/
+main section:nth-of-type(3) ul li {
+	background-color: rgb(255, 255, 255);
+	color: black;
+	border: 2px solid rgb(255, 140, 0);
+	padding: 10px 20px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+}
+
+
+
+
+
+
 /***********************/
-/* Section Onze missie */
+/* Section 3 - Onze missie */
 /***********************/
-section:nth-of-type(4) {
+section:nth-of-type(3) {
 	background: rgb(255, 140, 0);
 }
-section:nth-of-type(6) {
+section:nth-of-type(5) {
 	background: rgb(255, 140, 0);
 }
 
 
-@media (min-width:40em) {
 
-	main section:first-of-type ul {
-		flex-direction: column;
-	}
 
-	main section:first-of-type {
-		display: none;
-	}
 
-	main section:nth-of-type(3){
-		display: block;
-	}
-}
+
+
+
+/* weet niet  */
+
+
+/********************************/
+/* HINDYOU HINDOEISME NEDERLAND */
+/********************************/
+/* main section ul li {
+	background-color: rgb(255, 140, 0);
+	color: black;
+	border: 2px solid rgb(255, 140, 0);
+	padding: 10px 20px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+} */
+
+/* main section:nth-of-type(3) {
+	display: none;
+} */

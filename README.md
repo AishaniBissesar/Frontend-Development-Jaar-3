@@ -22,7 +22,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Blauw
 
   #### Je focus:
-  Responsive
+  Surface plane
  
 </details>
 
@@ -167,16 +167,17 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Stand van zaken
   hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+  De HTML was nu verbeterd en ik had een aantal dingen uitgeprobeerd met css, alleen lukte het meestal niet.
 
 
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | student 1      | student 2          | student 3    | student 4        |
+  | Laura Peer      | Idelene Martis           | Mohini Ramtahalsing    | Shanine Pasaribu          | Aishani Bissesar
   | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
+  | Animatie  | Positionering             | Responsiveness en de @media tag    | Wanneer wel classes    | Pseudo elementen
+  | En hoe het zit met de 2e pagina. | Alt labels | Stijlen van forms | Element dat vershuift als je scrolt | Hamburgermenu
+  | ...            | ...                | En het hamburgermenu          | ...              | 
 
 
   ### Verslag van meeting
